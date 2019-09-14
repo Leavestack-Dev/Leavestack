@@ -1,2 +1,2 @@
 # Leavestack
-The package intercommunication system of application servers. (Node.js)
+The module intercommunication system of application servers. (Node.js)

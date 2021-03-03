@@ -1,0 +1,24 @@
+{
+  "name": "leavestack",
+  "version": "0.1.0",
+  "description": "A module intercommunication framework.",
+  "main": "built/index.js",
+  "scripts": {
+    "start": "node ./built/example.js",
+    "ts": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leavestack-Dev/Leavestack.git"
+  },
+  "author": "Leavestack-Dev",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "@types/uuid": "8.3.x",
+    "typescript": "4.0.x"
+  },
+  "dependencies": {
+    "uuid": "8.3.x"
+  }
+}
